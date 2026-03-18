@@ -88,7 +88,7 @@
   <a href="https://www.linkedin.com/in/chamodya-madhushan-946a42280">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="#">
+  <a href="https://cmadhushan-dev.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-00C2FF?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
