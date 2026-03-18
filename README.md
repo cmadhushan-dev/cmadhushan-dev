@@ -29,7 +29,6 @@
 <p>
   <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,php" />
   <img src="https://img.shields.io/badge/Provider-00C853?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Riverpod-0553B1?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
 
 ### 🌐 Web Technologies
